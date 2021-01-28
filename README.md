@@ -1,2 +1,2 @@
-# Web-Development-Front-End
+# Web-Development
 Contains all front development projects
